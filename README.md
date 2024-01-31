@@ -3,6 +3,7 @@ In that movie app, there are three roles: guest, customer, and admin.
 Guest: Can only view the home page.
 Customer: Can purchase movies, check their profile.
 Admin: Can update and delete movies, as well as view profiles.## Step 1: Start the Metro Server
+git clone https://github.com/your-username/folder_name.git
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
 
